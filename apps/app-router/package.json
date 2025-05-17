@@ -60,8 +60,7 @@
     "recharts": "2.15.0",
     "sonner": "^1.7.1",
     "vaul": "^0.9.9",
-    "zod": "^3.24.1",
-    "work": "workspace:*"
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@babel/core": "7.26.0",
